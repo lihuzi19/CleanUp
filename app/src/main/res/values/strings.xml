@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CleanUp</string>
+    <string name="accessibility_tip">accessibility_tip</string>
+    <string name="accessibility_desc">accessibility_desc</string>
+</resources>
